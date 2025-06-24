@@ -1,0 +1,53 @@
+<<<<<<< HEAD
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: blueviolet;
+}
+
+.title{
+    color: white ;
+    text-align: center;
+
+}
+.container{
+    display: flex;
+   
+    flex-wrap: wrap;
+
+    
+
+}
+.container img{
+    margin: 20px;
+    flex-basis: 20%;
+    flex-grow: 1;
+}
+=======
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  background-color: blueviolet;
+}
+
+.title{
+    color: white ;
+    text-align: center;
+
+}
+.container{
+    display: flex;
+   
+    flex-wrap: wrap;
+
+    
+
+}
+.container img{
+    margin: 20px;
+    flex-basis: 20%;
+    flex-grow: 1;
+}
+>>>>>>> 8629689 (Your commit message)
